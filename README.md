@@ -1,6 +1,6 @@
 ### Olá, me chamo Lucas Guimarães 
 
-- 🌱 Estudando Golang e C#
+- 🌱 Estudando Golang e Java
 
 <div style="display: inline_block"><br>
 <img alt="adonisjs" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/adonisjs/adonisjs-original.svg" />
@@ -14,6 +14,7 @@
 <img alt="c#" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 <img alt="golang" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
 <img alt="sql" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" />
+<img alt="java" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
           
 </div>
 
