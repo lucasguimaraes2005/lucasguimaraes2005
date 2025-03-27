@@ -2,6 +2,8 @@
 
 - Desenvolvedor C#/JAVA
 
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=lucasguimaraes2005&show_icons=true&theme=radical)
+
 <div style="display: inline_block"><br>
 <img alt="adonisjs" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/adonisjs/adonisjs-original.svg" />
 <img alt="react" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
