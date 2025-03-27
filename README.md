@@ -1,6 +1,6 @@
 ### Olá, me chamo Lucas Guimarães 
 
-- Desenvolvedor C#/JAVA
+- Desenvolvedor C#/JAVA, atualmente trabalhando como desenvolvedor back-end .NET na Hero Corp
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=lucasguimaraes2005&show_icons=true&theme=tokyonigth)
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasguimaraes2005&layout=compact&theme=tokyonigth)
