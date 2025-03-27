@@ -2,7 +2,7 @@
 
 - Desenvolvedor C#/JAVA
 
-![Resumo do Perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucasguimaraes2005&theme=radical)
+![Metrics](https://metrics.lecoq.io/lucasguimaraes2005?template=classic&base.activity=0&base.community=0&base.metadata=0&config.timezone=America%2FSao_Paulo&base.repositories=0&base.indepth=false&base.hireable=false&base.skip=0&base=header,activity,community,repositories,metadata&isocalendar=1&isocalendar.duration=full-year&base.indepth=true)
 
 <div style="display: inline_block"><br>
 <img alt="adonisjs" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/adonisjs/adonisjs-original.svg" />
