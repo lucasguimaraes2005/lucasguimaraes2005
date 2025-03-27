@@ -3,6 +3,7 @@
 - Desenvolvedor C#/JAVA
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=lucasguimaraes2005&show_icons=true&theme=tokyonigth)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasguimaraes2005&layout=compact&theme=tokyonigth)
 
 
 <div style="display: inline_block"><br>
