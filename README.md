@@ -1,6 +1,6 @@
 ### Olá, me chamo Lucas Guimarães 
 
-- 🌱 Estudando Golang e Java
+- Desenvolvedor C#/JAVA
 
 <div style="display: inline_block"><br>
 <img alt="adonisjs" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/adonisjs/adonisjs-original.svg" />
