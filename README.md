@@ -1,54 +1,14 @@
-# Olá! Eu sou Lucas Guimarães 👋
+### Olá, me chamo Lucas Guimarães
 
-💻 Desenvolvedor Back-end com foco em **C# e .NET**, apaixonado por tecnologia, arquitetura de software e desenvolvimento de soluções.
+- Desenvolvedor C#/JAVA, atualmente trabalhando como desenvolvedor back-end .NET na Hero Corp
 
-Atualmente trabalho como **Desenvolvedor Back-end**, desenvolvendo APIs, microsserviços e integrações utilizando o ecossistema .NET.
+\
 
-### 📊 GitHub Stats
 
-<div align="center">
+\<div style="display: inline_block">\<br> \<img alt="adonisjs" align="center" height="30" width="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/adonisjs/adonisjs-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/adonisjs/adonisjs-original.svg)" /> \<img alt="react" align="center" height="30" width="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg)" /> \<img alt="dotnet" align="center" height="30" width="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain.svg)" /> \<img alt="nextjs" align="center" height="30" width="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg)" />           \<img alt="javascript" align="center" height="30" width="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg)" /> \<img alt="typescript" align="center" height="30" width="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg)" /> \<img alt="html" align="center" height="30" width="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg)" /> \<img alt="css" align="center" height="30" width="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg)" /> \<img alt="c#" align="center" height="30" width="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg)" /> \<img alt="golang" align="center" height="30" width="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg)" /> \<img alt="sql" align="center" height="30" width="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg)" /> \<img alt="java" align="center" height="30" width="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg)" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasguimaraes2005&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+\</div>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasguimaraes2005&layout=compact&theme=tokyonight&langs_count=8"/>
+##
 
-</div>
-
-### 🚀 Tecnologias e ferramentas
-
-<div align="center">
-
-<img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" />
-<img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" alt=".NET" />
-<img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" />
-<img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" alt="Go" />
-<img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" />
-<img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" />
-<img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="Angular" />
-<img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" />
-<img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" />
-<img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/adonisjs/adonisjs-original.svg" alt="AdonisJS" />
-<img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="SQL Server" />
-<img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" />
-<img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" />
-
-</div>
-
-### 📫 Contato
-
-<div align="center">
-
-<a href="mailto:lucaagui123@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-<a href="https://www.linkedin.com/in/lucas-guimar%C3%A3es-1b889a227/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/lucasguimaraes2005">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://discord.com/users/477839618595880960">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-</a>
-
-</div>
+\<div> \<a href="mailto\:lucaagui123\@gmail.com" target="\_blank">\<img src="[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)" target="\_blank">\</a> \<a href="[https://www.linkedin.com/in/lucas-guimar%C3%A3es-1b889a227/](https://www.linkedin.com/in/lucas-guimar%C3%A3es-1b889a227/)" target="\_blank">\<img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)" target="\_blank">\</a> \<a href="[https://github.com/lucasguimaraes2005](https://github.com/lucasguimaraes2005)" target="\_blank">\<img src="[https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)" target="\_blank">\</a> \<a href="[https://discord.com/users/477839618595880960](https://discord.com/users/477839618595880960)" target="\_blank">\<img src="[https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge\&logo=discord\&logoColor=white)" target="\_blank">\</a> \<a href="[https://api.whatsapp.com/send?phone=5527995740189](https://api.whatsapp.com/send?phone=5527995740189)" target="\_blank">\<img src="[https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge\&logo=whatsapp\&logoColor=white)" target="\_blank">\</a> \</div>
